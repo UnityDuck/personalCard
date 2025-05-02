@@ -1,0 +1,20 @@
+[
+  {
+    "first_name": "Крутой",
+    "last_name": "Пршепрашам",
+    "photo_url": "https://ae01.alicdn.com/kf/HTB10hgEkol7MKJjSZFDq6yOEpXa6/1103-Cool-Macro-Nyan-Cat-Glasses-Wall-Sticker-Art-Poster-For-Home-Decor-Silk-Canvas-Painting.jpg",
+    "specialties": ["Капитан", "Навигатор"]
+  },
+  {
+    "first_name": "Бобрито",
+    "last_name": "Бандито",
+    "photo_url": "https://avatars.mds.yandex.net/i?id=79d83e87236bea967b54e03cdb2af1aec43753de-7011736-images-thumbs&n=13",
+    "specialties": ["Инженер", "Техник"]
+  },
+  {
+    "first_name": "Дмитрий",
+    "last_name": "Сигма",
+    "photo_url": "https://steamuserimages-a.akamaihd.net/ugc/2339126078234824539/86A9178BC8ECD7B6E23007DED91C686A47517D0E/",
+    "specialties": ["Штурман", "Механик"]
+  }
+]
